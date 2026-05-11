@@ -56,3 +56,7 @@ public class AppTest {
 mvn clean install
 
 mvn exec:java -Dexec.mainClass="com.example.app.App"
+
+in jenk-tools-addjdk-jdk21-install-maven i-add-name as maven-install-save
+plugins-available-mavenintegration-select the junit realime-install
+seeting-cred-add-username-githubusername-password-tkoenpaste-id-githubtoken-save
